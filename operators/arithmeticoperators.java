@@ -6,7 +6,7 @@ public class arithmeticoperators {
         System.out.println(p-q);
         System.out.println(p*q);
         System.out.println(p/q);
-        System.out.println(p%q);
+        System.out.print(p%q);
 
     }
 }
