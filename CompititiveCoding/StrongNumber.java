@@ -19,9 +19,9 @@ public class StrongNumber {
         int sum = 0;
 
         while(num > 0) {
-            int digit = num % 10;      // last digit
-            sum += factorial(digit);   // add factorial
-            num /= 10;                 // remove last digit
+            int digit = num % 10;      
+            sum += factorial(digit);   
+            num /= 10;                 
         }
 
         if(sum == original)
