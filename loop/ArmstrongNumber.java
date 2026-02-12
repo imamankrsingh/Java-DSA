@@ -7,7 +7,7 @@ public class ArmstrongNumber {
         System.out.print("Enter a number: ");
         int num = sc.nextInt();
 
-        int original = num;
+        int original = num ;
         int sum = 0;
 
         while(num > 0) {
