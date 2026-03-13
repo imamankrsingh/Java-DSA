@@ -20,7 +20,7 @@ The code is written in a **simple and  beginner-friendly** way.
      
 ---    
          
-
+ 
 ## 📂 Project Structure   
       
 ```         
