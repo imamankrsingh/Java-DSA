@@ -10,7 +10,7 @@ class Algebra {
     }
 
     int sub() {
-        return a - b;   // अब a और b defined हैं
+        return a - b;  
     }
 
     void demo() {
@@ -29,7 +29,7 @@ class Algebra {
     }
 }
 
-public class AlgebraOperationsDemo {   // class name capital होना चाहिए (best practice)
+public class AlgebraOperationsDemo {  
     public static void main(String[] args) {
 
         Algebra obj = new Algebra();
