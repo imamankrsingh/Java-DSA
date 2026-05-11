@@ -11,9 +11,9 @@ public class SumArray {
         return arr[idx] + sum(arr, idx + 1);
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args)  {
 
-        int[] arr = {1, 2, 3, 4};
+        int[] arr = {1, 2, 3, 4 , 5};
 
         System.out.println(sum(arr, 0));
     }
