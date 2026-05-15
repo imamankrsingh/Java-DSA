@@ -1,0 +1,44 @@
+public class RecursiveselectionSort {
+
+    static void selectionSort(int[] arr, int start) {
+
+    
+        if (start == arr.length - 1) {
+            return;
+        }
+
+    
+        int minIndex = start;
+
+        for (int i = start + 1; i < arr.length; i++) {
+
+            if (arr[i] < arr[minIndex]) {
+                minIndex = i;
+            }
+        }
+
+        
+        int temp = arr[start];
+        arr[start] = arr[minIndex];
+        arr[minIndex] = temp;
+
+        
+        selectionSort(arr, start + 1);
+    }
+
+    static void printArray(int[] arr) {
+
+        for (int x : arr) {
+            System.out.print(x + " ");
+        }
+    }
+
+    public static void main(String[] args) {
+
+        int[] arr = {64, 25, 12, 22, 11};
+
+        selectionSort(arr, 0);
+
+        printArray(arr);
+    }
+}
