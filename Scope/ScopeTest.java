@@ -14,7 +14,7 @@ public class ScopeTest {
             System.out.println("block z: " + z);
             System.out.println("block x: " + x);
         }
-  
+   
 
     }
 
