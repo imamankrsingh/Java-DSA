@@ -70,7 +70,7 @@ javac FileName.java
 java FileName
 ```
 
-> Replace `FileName` with the actual Java file name.
+> Replace `FileName` with the actual Java file name. 
 
 ---
 
