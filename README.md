@@ -56,7 +56,7 @@ Java-DSA/
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/imamankrsingh/Java-DSA.git
-cd Java-DSA
+cd Java-DSA 
 ````
 
 ### 2️⃣ Compile a Java file
