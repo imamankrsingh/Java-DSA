@@ -80,7 +80,7 @@ java FileName
 * Beginners learning **Java**
 * Students preparing for **DSA**
 * Interview preparation
-* Daily coding practice
+* Daily coding practice 
 
 ---
 
