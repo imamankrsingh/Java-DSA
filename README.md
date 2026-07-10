@@ -28,7 +28,7 @@ The code is written in a **simple and beginner-friendly** way.
 Java-DSA/
 ├── Basic/            # Java basics (variables, input/output, etc.)
 ├── arrays/           # Array problems and examples
-├── conditionals/     # if-else, switch case programs
+├── conditionals/     # if-else, switch  case programs
 ├── loop/             # for, while, do-while loops
 ├── methods/          # Functions and method examples
 ├── patterns/         # Pattern printing programs
