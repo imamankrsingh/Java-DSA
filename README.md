@@ -17,7 +17,7 @@ It is created for learning, practicing, and strengthening problem-solving skills
 - Practicing problems commonly asked in **coding interviews**
 
 The code is written in a **simple and beginner-friendly** way. 
- 
+  
 ---
    
 
