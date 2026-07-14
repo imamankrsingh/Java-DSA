@@ -68,7 +68,7 @@ javac FileName.java
 ### 3️⃣ Run the program
 
 ```bash
-java FileName
+java FileName 
 ```
 
 > Replace `FileName` with the actual Java file name. 
