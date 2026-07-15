@@ -118,7 +118,7 @@ If this repository helps you:
 
 This version:
 - ✅ Clean
-- ✅ Beginner-friendly
+- ✅ Beginner-friendly 
 - ✅ UTF-8 safe
 - ✅ Perfect for GitHub
 
