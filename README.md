@@ -13,7 +13,7 @@ It is created for learning, practicing, and strengthening problem-solving skills
  
 **Java-DSA** is focused on:
 - Building strong **Java fundamentals**
-- Understanding **DSA concepts step by step**
+- Understanding **DSA concepts step by step** 
 - Practicing problems commonly asked in **coding interviews**
 
 The code is written in a **simple and beginner-friendly** way. 
