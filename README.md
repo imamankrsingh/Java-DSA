@@ -62,7 +62,7 @@ cd Java-DSA
 ### 2️⃣ Compile a Java file
 
 ```bash
-javac FileName.java
+javac FileName.java 
 ```
 
 ### 3️⃣ Run the program
