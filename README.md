@@ -93,7 +93,7 @@ You can:
 * Improve existing solutions
 * Optimize code
 
-Steps:
+Steps: 
 
 1. Fork the repository
 2. Create a new branch
