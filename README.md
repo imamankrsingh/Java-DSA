@@ -33,7 +33,7 @@ Java-DSA/
 ├── methods/          # Functions and method examples
 ├── patterns/         # Pattern printing programs
 ├── .gitignore
-└── README.md.   
+└── README.md.    
  
 ````  
  
