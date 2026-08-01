@@ -32,7 +32,7 @@ Java-DSA/
 ├── loop/             # for, while, do-while loops
 ├── methods/          # Functions and method examples
 ├── patterns/         # Pattern printing programs
-├── .gitignore
+├── .gitignore 
 └── README.md.     
  
 ````  
