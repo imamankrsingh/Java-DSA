@@ -46,7 +46,7 @@ Java-DSA/
 - Loops
 - Methods / Functions 
 - Arrays 
-- Pattern Printing
+- Pattern Printing 
 - Logical & DSA-based Problems
 
 --- 
