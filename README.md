@@ -45,7 +45,7 @@ Java-DSA/
 - Conditional Statements
 - Loops
 - Methods / Functions 
-- Arrays 
+- Arrays   
 - Pattern Printing 
 - Logical & DSA-based Problems
 
