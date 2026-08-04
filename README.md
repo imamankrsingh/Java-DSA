@@ -120,7 +120,7 @@ This version:
 - ✅ Clean 
 - ✅ Beginner-friendly 
 - ✅ UTF-8 safe
-- ✅ Perfect for GitHub
+- ✅ Perfect for GitHub 
 
 If you want a **more professional / resume-level README**, tell me 👍
 ```
