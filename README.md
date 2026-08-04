@@ -65,7 +65,7 @@ cd Java-DSA
 javac FileName.java 
 ```. 
 
-### 3️⃣ Run the program
+### 3️⃣ Run the program 
 
 ```bash
 java FileName 
