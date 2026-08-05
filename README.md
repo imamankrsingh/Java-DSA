@@ -54,7 +54,7 @@ Java-DSA/
 ## 🛠️ How to Run the Code
  
 ### 1️⃣ Clone the repository
-```bash
+```bash 
 git clone https://github.com/imamankrsingh/Java-DSA.git
 cd Java-DSA 
 ```       
