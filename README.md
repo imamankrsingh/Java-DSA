@@ -67,7 +67,7 @@ javac FileName.java
 
 ### 3️⃣ Run the program 
 
-```bash
+```bash 
 java FileName 
 ```
 
