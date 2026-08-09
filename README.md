@@ -39,7 +39,7 @@ Java-DSA/
        
 ---
 
-## ✨ Topics Covered
+## ✨ Topics Covered 
 
 - Java Basics
 - Conditional Statements
