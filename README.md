@@ -24,7 +24,7 @@ The code is written in a **simple and beginner-friendly** way.
 ## 📂 Project Structure   
    
 ```      
-   
+    
 Java-DSA/
 ├── Basic/            # Java basics (variables, input/output, etc.)
 ├── arrays/           # Array problems and examples
