@@ -116,7 +116,7 @@ If this repository helps you:
 
 ```
   
-This version:
+This version: 
 - ✅ Clean 
 - ✅ Beginner-friendly 
 - ✅ UTF-8 safe
