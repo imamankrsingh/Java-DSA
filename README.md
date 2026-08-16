@@ -69,7 +69,7 @@ javac FileName.java
 
 ```bash 
 java FileName  
-```
+``` 
 
 > Replace `FileName` with the actual Java file name. 
 
