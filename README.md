@@ -51,7 +51,7 @@ Java-DSA/
 
 --- 
   
-## 🛠️ How to Run the Code
+## 🛠️ How to Run the Code.  
   
 ### 1️⃣ Clone the repository
 ```bash 
