@@ -18,7 +18,7 @@ It is created for learning, practicing, and strengthening problem-solving skills
 
 The code is written in a **simple and beginner-friendly** way. 
      
----   
+---    
      
 
 ## 📂 Project Structure   
