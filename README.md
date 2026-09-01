@@ -16,7 +16,7 @@ It is created for learning, practicing, and strengthening problem-solving skills
 - Understanding **DSA concepts step by  step** 
 - Practicing problems commonly asked in **coding interviews**
 
-The code is written in a **simple and beginner-friendly** way. 
+The code is written in a **simple and  beginner-friendly** way. 
      
 ---    
         
