@@ -1,8 +1,8 @@
 ﻿# Java-DSA
 Here is a **fresh, clean, UTF-8–friendly `README.md`** you can directly paste into your repository 👇
 
-```markdown                  
-# Java-DSA 🚀                            
+```markdown                   
+# Java-DSA🚀                             
     
 This repository contains **Data Structures and Algorithms (DSA)** implemented in **Java**.          
 It is created for learning, practicing, and strengthening problem-solving skills using Java.                         
