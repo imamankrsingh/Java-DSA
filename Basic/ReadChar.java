@@ -9,4 +9,4 @@ public class ReadChar {
         char ch = Sc.next().charAt(0);
         System.out.println("Character is : " + ch);
     }
-}
+} 

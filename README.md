@@ -1,88 +1,88 @@
 ﻿# Java-DSA
 Here is a **fresh, clean, UTF-8–friendly `README.md`** you can directly paste into your repository 👇
 
-```markdown      
-# Java-DSA 🚀           
-
-This repository contains **Data Structures and Algorithms (DSA)** implemented in **Java**.         
-It is created for learning, practicing, and strengthening problem-solving skills using Java.        
-           
----   
- 
+```markdown                        
+# Java-DSA🚀                                                                                                                         
+        
+This repository contains **Data Structures and Algorithms (DSA)** implemented in **Java**.          
+It is created for learning, practicing, and strengthening problem-solving skills using Java.                            
+                                                                                   
+---            
+       
 ## 📖 About the Repository   
  
 **Java-DSA** is focused on:
 - Building strong **Java fundamentals**
-- Understanding **DSA concepts step by step** 
+- Understanding **DSA concepts step by  step** 
 - Practicing problems commonly asked in **coding interviews**
 
-The code is written in a **simple and beginner-friendly** way. 
-    
----
-   
+The code is written in a **simple and  beginner-friendly** way. 
+     
+---    
+        
 
 ## 📂 Project Structure   
-  
-```  
-
-Java-DSA/
+      
+```         
+     
+Java-DSA/  
 ├── Basic/            # Java basics (variables, input/output, etc.)
 ├── arrays/           # Array problems and examples
 ├── conditionals/     # if-else, switch  case programs
 ├── loop/             # for, while, do-while loops
 ├── methods/          # Functions and method examples
 ├── patterns/         # Pattern printing programs
-├── .gitignore
-└── README.md.   
- 
-```` 
- 
+├── .gitignore   
+└── README.md.       
+      
+````    
+          
 ---
-
-## ✨ Topics Covered
+  
+## ✨ Topics Covered 
 
 - Java Basics
 - Conditional Statements
 - Loops
-- Methods / Functions 
-- Arrays
-- Pattern Printing
+- Methods / Functions  
+- Arrays    
+- Pattern Printing 
 - Logical & DSA-based Problems
 
 --- 
-
-## 🛠️ How to Run the Code
- 
+    
+## 🛠️ How to Run the Code.  
+  
 ### 1️⃣ Clone the repository
-```bash
+```bash  
 git clone https://github.com/imamankrsingh/Java-DSA.git
-cd Java-DSA 
-````
- 
+cd Java-DSA  
+```       
+  
 ### 2️⃣ Compile a Java file
 
-```bash
-javac FileName.java
-```
+```bash  
+javac FileName.java 
+```. 
 
-### 3️⃣ Run the program
+### 3️⃣ Run the program 
 
-```bash
-java FileName 
-```
+```bash 
+java FileName  
+``` 
 
 > Replace `FileName` with the actual Java file name. 
 
 ---
-
+  
 ## 🎯 Who Is This For?
-
+ 
 * Beginners learning **Java**
 * Students preparing for **DSA**
 * Interview preparation
 * Daily coding practice 
-
----
+  
+---    
 
 ## 🤝 Contributing
 
@@ -93,7 +93,7 @@ You can:
 * Improve existing solutions
 * Optimize code
 
-Steps:
+Steps: 
 
 1. Fork the repository
 2. Create a new branch
@@ -115,12 +115,12 @@ If this repository helps you:
 ### Happy Coding 💻🔥
 
 ```
-
-This version:
-- ✅ Clean
+  
+This version:  
+- ✅ Clean 
 - ✅ Beginner-friendly 
 - ✅ UTF-8 safe
-- ✅ Perfect for GitHub
+- ✅ Perfect for GitHub  
 
 If you want a **more professional / resume-level README**, tell me 👍
 ```
